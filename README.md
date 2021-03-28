@@ -13,7 +13,7 @@ We cannot replace a doctor's diagnosis, or even try to augment it, but we can mo
 
 Tracking these parameters on a daily basis, and detecting anomalies in patterns (someone unable to raise their right hand fully since yesterday or drawing more wavy lines than before) can help us trigger alerts for the primary care givers, their immediate family and/or their doctor, who can intervene with prompt diagnosis and appropriate action.
 
-### App
+## App
 
 <img src = "assets/sc1.jpg" height = "550px">
 <img src = "assets/sc2.jpg" height = "550px">
@@ -22,12 +22,13 @@ Tracking these parameters on a daily basis, and detecting anomalies in patterns 
 <img src = "assets/sc5.jpg" height = "550px">
 <img src = "assets/sc6.png" height = "550px">
 
-### Tracking Records
+## Tracking Records
 
 ![dataset1](assets/module1.jpg)
+---
 ![dataset2](assets/Module2.jpg)
 
-### Made Using
+## Made Using
 
 <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
